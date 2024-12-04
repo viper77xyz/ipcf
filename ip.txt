@@ -1,4 +1,8 @@
-206.237.98.76,587,ID,Pt Herza Digital
-203.194.112.119,2053,ID,Rumahweb
-13.250.38.94,443,SG
-62.72.46.14,8443,SG,Cona
+id1.your-project.live,2096,ID,CTN
+id2.your-project.live,20132,ID,Herza
+id3.your-project.live,8080,ID,PusatMedia
+jp1.your-project.live,226249,JP,Hachinohe Cable
+sg1.your-project.live,8900,SG,Oracle
+sg2.your-project.live,9090,SG,Alibabi
+sg3.your-project.live,443,SG,Amazon
+us1.your-project.live,4441,US,Multacom
