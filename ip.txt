@@ -9,4 +9,4 @@
 123.253.33.182,12306,MY,Gigabit Hosting
 134.122.185.75,25507,CN,BGP Network
 103.115.44.87,49323,CN,Rainbow Network
-156.230.12.71:443,CN,263 Shanghai Communications
+156.230.12.71,443,CN,263 Shanghai Communications
