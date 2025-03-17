@@ -1,4 +1,4 @@
-103.6.207.108,8080,ID,Pusat Media Indonesia
+36.95.152.58,12137,ID,PT Telkom Indonesia
 43.218.77.16,1443,ID,AWS
 172.232.239.151,587,ID,Akamai
 198.13.42.58,32954,JP,Vultr
@@ -8,5 +8,5 @@
 109.120.179.149,2083,US,Aeza International
 123.253.33.182,12306,MY,Gigabit Hosting
 134.122.185.75,25507,CN,BGP Network
-103.115.44.87,49323,CN,Rainbow Network
+120.53.10.175,8888,CN,Tencent Cloud Computing
 156.230.12.71,443,CN,263 Shanghai Communications
