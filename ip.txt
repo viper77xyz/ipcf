@@ -6,7 +6,7 @@
 213.35.108.135,12596,SG,Oracle
 47.74.254.191,8900,SG,Alibaba
 109.120.179.149,2083,US,Aeza International
-123.253.33.182,12306,MY,Gigabit Hosting
+38.60.193.247,13300,MY,Kaopu Cloud HK
 103.115.44.87,49322,CN,Rainbow Limited
 47.242.169.69,52721,CN,Alibabi
 188.253.6.53,25884,CN,Akari Network
